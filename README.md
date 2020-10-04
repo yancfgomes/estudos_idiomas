@@ -1,4 +1,4 @@
-#Como estudar idiomas estrangeiros 
+# Como estudar idiomas estrangeiros 
 
 
 Essas são apenas dicas de um desenvolvedor para todos os demais que gostam de aprender coisas novas.
@@ -61,7 +61,7 @@ Exemplo:
 
 <br>
 
-###Estudos Pesados
+### Estudos Pesados
 
 Dica: Escolha somente um por vez.
 
@@ -80,14 +80,14 @@ Reescreva corretamente 15 vezes as palavras erradas, sem traduzir.
 Identifique as `palavras`, `termos` e `frases` que você não sabe e que são comumente usados em cada contexto. Escreva-os todos.
 
 
-###Estudos Leves
+### Estudos Leves
 1. Consumir conteúdo do idioma estudado. Por exemplo: ler jornais, artigos, blogs, assistir filmes, ouvir músicas, etc.
 2. Escreva (no idioma estudado) sobre o conteúdo que você consumiu.
 3. Converse com outras pessoas, de preferência nativos ou falantes do idioma mais experientes.
 
 
 
-###Fatores Importantes
+### Fatores Importantes
 
 Durante cada estudo o foco é melhorar em cada um dos fatores abaixo:
 
@@ -104,7 +104,7 @@ Durante cada estudo o foco é melhorar em cada um dos fatores abaixo:
 
 
 
-##Como estudar mais de um idioma por vez
+## Como estudar mais de um idioma por vez
 
 Se você não sabe nenhum idioma além do seu, é aconselhável estudar primeiro um. De todos o mais indicado é o `inglês`.
 
@@ -121,7 +121,7 @@ Logo você pode dividir seu tempo da seguinte forma.
 2. Menor parte do tempo para o segundo idioma.
 
 
-####Exemplos:
+#### Exemplos:
 Tendo como o **total de tempo** `8 horas por semana`.
 
 | Idioma   | Total de tempo |
@@ -145,7 +145,7 @@ Na tabela de rotina ficaria da seguinte forma:
 
 Tendo cada idioma, o período de estudos pesados.
 
-###Três idiomas por vez
+### Três idiomas por vez
 
 Seguindo a mesma lógica, você poderia dividir o tempo total em três partes, da seguinte forma:
 <br>
@@ -154,7 +154,7 @@ Seguindo a mesma lógica, você poderia dividir o tempo total em três partes, d
 3. A menor parte do tempo para o terceiro idioma.
 
 
-####Exemplos:
+#### Exemplos:
 Tendo como o **total de tempo** `8 horas por semana`.
 
 | Idioma   | Total de tempo |
@@ -181,10 +181,10 @@ Na tabela de rotina ficaria da seguinte forma:
 
 
 
-##Links úteis
+## Links úteis
 
 
-####Inglês
+#### Inglês
 
 * https://dictionary.cambridge.org/pt/
 * https://www.todamateria.com.br/gramatica-ingles/
