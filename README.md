@@ -100,7 +100,7 @@ Durante cada estudo o foco é melhorar em cada um dos fatores abaixo:
 
 ## Como estudar mais de um idioma por vez
 
-Se você não sabe nenhum idioma além do seu, é aconselhável estudar primeiro um. De todos o mais indicado é o `inglês`.
+Se você não sabe nenhum idioma além do seu idioma nativo, é aconselhável estudar primeiro um. De todos o mais indicado é o `inglês`.
 
 Se você já possui bastante experiência com outro idioma além do seu idioma nativo, pode escolher por estudar dois, três, ou até quatro idiomas por vez.
 <br>
