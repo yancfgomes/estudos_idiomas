@@ -69,9 +69,7 @@ Estudos pesados podem ser:
 
 1. **Estudos gramaticais**: Estude um tópico por vez da gramática do idioma escolhido.
 2. **Ditados**: Focadamente escute quantas vezes achar necessário áudios, áudio-livros, músicas ou filmes, sem observar nenhuma referência da tradução ou escrita original (legendas ou coisas do tipo).Tente escrever cada palavra que ouviu. Tendo escrito, observe as referências para correção. Aproveite para ver significados e aplicações de cada palavra, escrevendo tudo. Reescreva corretamente 15 vezes as palavras erradas, sem traduzir.
-3. **Contextuais**: Escolha contextos ou assuntos do dia a dia como "ir ao restaurante", "ir ao supermercado", "ir ao cinema", culinária, música, etc.  
-<br>
-Identifique as `palavras`, `termos` e `frases` que você não sabe e que são comumente usados em cada contexto. Escreva-os todos.
+3. **Contextuais**: Escolha contextos ou assuntos do dia a dia como "ir ao restaurante", "ir ao supermercado", "ir ao cinema", culinária, música, etc. Identifique as `palavras`, `termos` e `frases` que você não sabe e que são comumente usados em cada contexto. Escreva-os todos.
 
 
 ### Estudos Leves
