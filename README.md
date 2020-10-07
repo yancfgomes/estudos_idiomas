@@ -195,7 +195,6 @@ Canais do YouTube úteis e que serviram bastante como referência:
 
 * https://www.youtube.com/channel/UCom75ytjvnPcVwX5yAOvXbA
 * https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag
-* https://www.youtube.com/channel/UC5SNqMU8j9962mHKuYp4Zlw
 
 
 ---
