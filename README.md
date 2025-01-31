@@ -18,7 +18,7 @@ Por exemplo:
 
 | Dia   |  Quantidade de Horas  |    
 |:------|:---------------------:|
-|Domgino|           1h          |
+|Domingo|           1h          |
 |Segunda|           2h          |
 |Terça  |           1h          | 
 |Quarta |           30min       |
@@ -176,25 +176,47 @@ Na tabela de rotina ficaria da seguinte forma:
 ## Links úteis
 
 
-#### Inglês
+### Recursos para Aprender Inglês
 
-* https://dictionary.cambridge.org/pt/
-* https://www.todamateria.com.br/gramatica-ingles/
-* https://www.ted.com/
-* https://www.esl-lab.com
-* https://esl-bits.net
-* https://www.inglesonline.com.br
-* http://www.bbc.co.uk/learningenglish/english/features/6-minute-english
-* https://www.englishlistening.com.br
-* https://www.eslpod.com
-* http://doyleandmacdonald.com/lit.htm
-* http://classicbook.info/
-* http://digital.library.upenn.edu/books/search.html
+#### 📖 Dicionários e Tradução
+- [Cambridge Dictionary](https://dictionary.cambridge.org/pt/)
+- [Reverso Context](https://context.reverso.net/traducao/)
 
-Canais do YouTube úteis e que serviram bastante como referência:
+#### 📚 Gramática e Regras de Inglês
+- [Toda Matéria - Gramática Inglês](https://www.todamateria.com.br/gramatica-ingles/)
+- [Ego4U](https://www.ego4u.com/)
+- [Lingolia English](https://english.lingolia.com/en/)
 
-* https://www.youtube.com/channel/UCom75ytjvnPcVwX5yAOvXbA
-* https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag
+#### 🎧 Escuta e Compreensão Oral
+- [Randall’s ESL Cyber Listening Lab](https://www.esl-lab.com)
+- [ESL Bits](https://esl-bits.net)
+- [English Listening](https://www.englishlistening.com.br)
+- [ESLPod](https://www.eslpod.com)
+- [BBC Learning English - 6 Minute English](http://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
+
+#### 📺 Vídeos e Aulas Interativas
+- [TED Talks](https://www.ted.com/)
+
+
+#### 📖 Livros e Leitura em Inglês
+- [Doyle & MacDonald - Literatura](http://doyleandmacdonald.com/lit.htm)
+- [Classic Book](http://classicbook.info/)
+- [Digital Library - University of Pennsylvania](http://digital.library.upenn.edu/books/search.html)
+
+#### 📝 Testes e Certificações
+- [EFSET - Teste de Inglês](https://www.efset.org/pt/)
+
+#### 🌍 Aprendizado Geral de Inglês
+- [Nação Fluente](https://www.nacaofluente.com/)
+- [Inglês Online](https://www.inglesonline.com.br)
+- [Engvid](https://www.engvid.com/)
+
+
+#### ▶️ Canais do YouTube úteis e que serviram bastante como referência:
+
+- [Fluency Inglês Brasil](https://www.youtube.com/channel/UCom75ytjvnPcVwX5yAOvXbA)
+- [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
+- [Learn English with Rebecca](https://www.youtube.com/@engvidRebecca)
 
 
 ---
