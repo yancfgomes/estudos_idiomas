@@ -10,7 +10,7 @@ Dica: Separe um caderno para seus estudos.
 
 <br>
 
-### git aHoras de Dedicação
+### Horas de Dedicação
 
 Com base em sua rotina semanal, determine um total de horas que seja exclusivamente para dedicação aos estudos.
 <br>
